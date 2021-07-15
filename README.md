@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript and React.js**
 
-- 👨‍💻 All of my projects are available at **[himadrishah.tech]**(https://himadrishah.tech/)
+- 👨‍💻 All of my projects are available at **[himadrishah.tech](https://himadrishah.tech/)**
 
-- 📝 I regularly write articles on **[himadrishah.hashnode.dev]**(https://himadrishah.hashnode.dev/)
+- 📝 I regularly write articles on **[himadrishah.hashnode.dev](https://himadrishah.hashnode.dev/)**
 
 - 📫 How to reach me **himadrishah2000@gmail.com**
 

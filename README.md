@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Himadri Shah</h1>
 <h3 align="center">A passionate frontend web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himadri2110&label=Profile%20views&color=0e75b6&style=flat" alt="himadri2110" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himadri2110&label=Profile%20views&color=blueviolet&style=flat-square" alt="himadri2110" /> </p>
 
-<p align="left"> <a href="https://twitter.com/himadri2110" target="blank"><img src="https://img.shields.io/twitter/follow/himadri2110?logo=twitter&style=for-the-badge" alt="himadri2110" /></a> </p>
+<p align="left"> <a href="https://twitter.com/himadri2110" target="blank"><img src="https://img.shields.io/twitter/follow/himadri2110?logo=twitter&color=blueviolet&style=flat-square&label=Follow" alt="himadri2110" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript and React.js**
 

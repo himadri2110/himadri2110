@@ -23,8 +23,9 @@
   
 <a href="https://twitter.com/himadri2110"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"  align="left"/></a> 
   
-<a href="https://himadrishah.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/></a>
+<a href="https://himadrishah.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" align="left"/></a>
 
+<a href="https://www.polywork.com/himadri2110"><img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white" alt="Polywork"/></a>
 
 <!-- <a href="https://twitter.com/himadri2110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himadri2110" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himadri2110" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himadri2110" height="30" width="40" /></a> -->

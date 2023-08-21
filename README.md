@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himadri Shah</h1>
-<h3 align="center">An aspiring frontend web developer from India</h3>
+<h3 align="center">A Frontend Web Developer from India</h3>
 
 <p><img src="https://komarev.com/ghpvc/?username=himadri2110&label=Profile%20views&color=blueviolet&style=flat-square" alt="himadri2110" /> </p>
 
@@ -8,12 +8,10 @@
 
 <h3>About Me:</h3>
 
-- 👩‍🎓 Final year IT undergrad
-- 🧠 Self taught developer 
-- 👩‍💻 Web dev enthusiast
-- 🌱 Currently learning **JavaScript and React**
-- 💡  Building projects
-- 🌐 Checkout my **[Portfolio](https://himadrishah.tech/)**
+- 👩‍💻 SDE-I at [Kenko Health](https://kenkohealth.in)
+- 🌱 Currently learning **Nextjs**
+- 💡 Building projects
+- 🌐 Checkout my **[Portfolio](https://himadrishah.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3
     

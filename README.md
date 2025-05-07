@@ -8,10 +8,9 @@
 
 <h3>About Me:</h3>
 
-- 👩‍💻 SDE-I at [Kenko Health](https://kenkohealth.in)
+- 👩‍💻 SDE-II at [Hopstack](https://www.hopstack.io/)
 - 🌱 Currently learning **Nextjs**
 - 💡 Building projects
-- 🌐 Checkout my **[Portfolio](https://himadrishah.netlify.app/)**
 
 <h3 align="left">Connect with me:</h3
     

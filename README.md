@@ -8,7 +8,7 @@
 
 <h3>About Me:</h3>
 
-- 👩‍💻 SDE-II at [Hopstack](https://www.hopstack.io/)
+- 👩‍💻 Software Engineer at [Rippling](https://www.rippling.com/)
 - 🌱 Currently learning **Nextjs**
 - 💡 Building projects
 
